@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 // Function to convert years of experience into a 4-byte binary string
