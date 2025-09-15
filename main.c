@@ -2,9 +2,8 @@
 
 int main(){
 
+  // git test
   printf("Hello world\n");
-
-  // change
 
   return 0;
 }
